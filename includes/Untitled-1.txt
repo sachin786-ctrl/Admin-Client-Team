@@ -1,0 +1,16 @@
+# Login | Admin Panel
+
+
+#### Admin Login
+Sign in to access your dashboard
+[Forgot Password?](http://localhost/client-flow/admin/payments/auth/forgot_password.php)
+[Login as Client](http://localhost/client-flow/client/auth/login.php)
+
+### Confirm Action
+Are you sure you want to proceed?
+[Confirm](http://localhost/client-flow/admin/payments/list_payments.php)
+
+###### Notification Details
+[Open Related Page](http://localhost/client-flow/admin/payments/list_payments.php)
+
+###### Record Payment Received

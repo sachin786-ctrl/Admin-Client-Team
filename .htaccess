@@ -1,0 +1,2 @@
+# Ensure Apache serves index.php first so ClientFlow app routes to admin/login.php
+DirectoryIndex index.php index.html
